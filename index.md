@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: JINPO LI's CV
 ---
-# 李锦坡
-Physicist, Mathematician, Cambridge professor.
+# LI Jinpo 李锦坡
+PhD student in Economics
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jinpoli@LN.hk">jinpoli@LN.hk</a>, <a href="jinpo.li@whu.edu.cn">jinpo.li@whu.edu.cn</a>
+| Department of Economics, Lingnan University, Hong Kong, China</a>
 </div>
 
 
