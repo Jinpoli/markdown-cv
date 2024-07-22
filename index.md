@@ -77,6 +77,7 @@ The 10th Summer School for Applied Micro-econometrics 2022年上贸大-YES“面
 `2021summer`
 The Global Value Chain Training and Research Workshop 全球价值链讲习班, RIGVC-UIEB
 
+`2021summer`
 The 8th Summer School for Quantitative History 第八届量化历史讲习班, SJTU
 
 ### Online Courses
