@@ -71,6 +71,8 @@ Innovation, Trade, Economic History, China Economy.
 ### Summer School
 `2024summer`
 The 10th Global Value Chain Training and Research Workshop 第十届全球价值链讲习班, RIGVC-UIBE/WTO/AGI-HKU, UIBE
+
+`2024summer`
 2024 Summer School on Frontier Theories and Methods of Regional Economics 区域经济前沿理论与方法2024年暑期学校, SJTU
 
 `2023summer`
