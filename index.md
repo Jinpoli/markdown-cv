@@ -55,19 +55,24 @@ Innovation, Trade, Economic History, China Economy.
 
 ### in Chinese
 
-- 余振、李锦坡，2023：《中国区域创新集聚的测度及其影响因素分析——基于1985—2020年个体专利数据》，《江西社会科学》第12期。（人大复印报刊资料全文转载《区域与城市经济》2024年06期；收入《新华文摘》2024年第8期观点摘编）
+- 余振、**李锦坡（通讯作者）**、蒋盛君，2024：《高端人才空间集聚与后发国家创新发展——来自中国个体专利数据的证据》，《经济研究》第8期。
+- 余振、**李锦坡**，2023：《中国区域创新集聚的测度及其影响因素分析——基于1985—2020年个体专利数据》，《江西社会科学》第12期。（人大复印报刊资料全文转载《区域与城市经济》2024年06期；收入《新华文摘》2024年第8期观点摘编）
 
 ## Working Papers
 
 ### in Chinese
 
-- 《高端人才空间集聚与后发国家创新发展——来自中国个体专利数据的证据》（合作者：余振，蒋盛君）
+### In English
 
-
+"China’s Tariff Responses to the US-China Trade War" (with Larry Qiu)
 
 
 ## Other Learning Experience
 ### Summer School
+`2024summer`
+The 10th Global Value Chain Training and Research Workshop 第十届全球价值链讲习班, RIGVC-UIBE/WTO/AGI-HKU, UIBE
+2024 Summer School on Frontier Theories and Methods of Regional Economics 区域经济前沿理论与方法2024年暑期学校, SJTU
+
 `2023summer`
 The 6th Camphor Seedling Project Summer School 第六届“香樟青苗计划”暑期学校, Camphor Economist Circle (CEC) & School of Economics, UCASS
 
@@ -75,7 +80,7 @@ The 6th Camphor Seedling Project Summer School 第六届“香樟青苗计划”
 The 10th Summer School for Applied Micro-econometrics 2022年上贸大-YES“面向真实世界的经济研究”暑期学校, SUIBE-YES
 
 `2021summer`
-The Global Value Chain Training and Research Workshop 全球价值链讲习班, RIGVC-UIEB
+The 8th Global Value Chain Training and Research Workshop 第八届全球价值链讲习班, RIGVC-UIEB
 
 `2021summer`
 The 8th Summer School for Quantitative History 第八届量化历史讲习班, SJTU
