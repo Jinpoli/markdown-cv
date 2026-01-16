@@ -40,7 +40,7 @@ __Wuhan University, Wuhan, China__
 
 ## Research interests
 
-Innovation, Trade, Economic History, China Economy.
+Innovation, Trade, China Economy.
 
 
 ## Publication
@@ -55,7 +55,7 @@ Innovation, Trade, Economic History, China Economy.
 
 ### in Chinese
 
-- 余振、**李锦坡（通讯作者）**、蒋盛君，2024：《高端人才空间集聚与后发国家创新发展——来自中国个体专利数据的证据》，《经济研究》第8期。
+- 余振、**李锦坡（通讯作者）**、蒋盛君，2024：《高端人才空间集聚与后发国家创新发展——来自中国个体专利数据的证据》，《经济研究》第8期。(人大复印报刊资料全文转载《劳动经济与劳动关系》2025年第01期)
 - 余振、**李锦坡**，2023：《中国区域创新集聚的测度及其影响因素分析——基于1985—2020年个体专利数据》，《江西社会科学》第12期。（人大复印报刊资料全文转载《区域与城市经济》2024年06期；收入《新华文摘》2024年第8期观点摘编）
 
 ## Working Papers
@@ -64,7 +64,7 @@ Innovation, Trade, Economic History, China Economy.
 
 ### In English
 
-"China’s Tariff Responses to the US-China Trade War" (with Larry Qiu)
+"Retaliation Management: Trade imbalance and China's Retaliatory Tariffs During the 2018 Trade War" (with Bingjing LI and Larry QIU)
 
 
 ## Other Learning Experience
